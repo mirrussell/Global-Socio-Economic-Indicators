@@ -6,6 +6,8 @@ Dataset
 =======
 The analysis is based on the Gapminder dataset, which can be accessed here.
 
+Dataset Name: world-data-gapminder.csv
+
 Dataset URL: https://raw.githubusercontent.com/BME1478H/Winter2022class/master/data/world-data-gapminder.csv
 
 Research Questions
